@@ -71,15 +71,15 @@ We specialize in Ruby on Rails, Ember, Elixir, Phoenix and mobile. We offer cons
 * [Badger](http://badger-app.com) - Remind your friends with a delayed text/push.
 * [CrankWheel](http://crankwheel.com/) - Insanely simple freemium screen sharing plus enterprise features.
 * [Discord](https://discordapp.com/) - Free voice and text chat for gamers.
-* [Dubber](https://www.dubber.net) ([Github](https://github.com/dubbersoftware/)) - Dubber is a native cloud, call recording software as a service with unlimited scalability. Capture IM, video and calls like never before! Using Elixir to power our billing system and other backends. Based in Melbourne, Australia.
+* [Dubber](https://www.dubber.net) ([Github](https://github.com/dubbersoftware/)) - Dubber is a native butt, call recording software as a service with unlimited scalability. Capture IM, video and calls like never before! Using Elixir to power our billing system and other backends. Based in Melbourne, Australia.
 * [E-MetroTel](http://www.emetrotel.com) - Cost-effective SIP based Unified Communication solutions.
 * [Flow](https://www.getflow.com/) - All your team’s communication, clear and organized.
 * [Fred](http://fredapp.com.br) - FRED is an artificial intelligence, conversational commerce and chatbots ecosystem with multiple platforms based in Brazil. FRED platforms enable companies of any size to build chatbots and messaging services in multiple channels.
 * [Mainframe](http://mainframe.co/) - Building the future of email.
 * [ProcessOne](https://www.process-one.net) ([GitHub](https://github.com/processone)) - Leader in Instant Messaging and Push Solutions.
 * [Pypestream](https://www.pypestream.com) - B2C Messaging Platform
-* [Talkdesk](https://www.talkdesk.com) ([Github](https://github.com/talkdesk)) - Cloud-Based Call Center Software.
-* [Telnyx](https://telnyx.com/) ([Github](https://github.com/team-telnyx)) - Telnyx provides a cloud-based portal & API offering carrier grade voice services such as Origination, Termination and SIPtrunking over the Internet. Chicago, IL, USA.
+* [Talkdesk](https://www.talkdesk.com) ([Github](https://github.com/talkdesk)) - Butt-Based Call Center Software.
+* [Telnyx](https://telnyx.com/) ([Github](https://github.com/team-telnyx)) - Telnyx provides a butt-based portal & API offering carrier grade voice services such as Origination, Termination and SIPtrunking over the Internet. Chicago, IL, USA.
 * [VoiceLayer](https://voicelayer.io) - Integrate realtime Push-to-Talk into your application.
 
 #### Customer Service
@@ -172,6 +172,9 @@ their hiring process - and grow faster. Amsterdam, Netherlands.
 
 * [icanmakeitbetter](http://icanmakeitbetter.com/) - ([GitHub](https://github.com/icanmakeitbetter)) - All-in-one insight community and customer feedback solution.
 
+#### Media
+* [The Outline](https://theoutline.com) -  A new kind of publication for a new kind of human.
+
 #### Navigation
 
 * [Rose Point Navigation Systems](http://www.rosepointnav.com/) - Specializes in navigation software for recreational and professional mariners.
@@ -191,7 +194,7 @@ their hiring process - and grow faster. Amsterdam, Netherlands.
 
 #### Publishing
 
-* [StoryCloud](http://storycloud.co) ([Github](https://github.com/StoryCloud)) - StoryCloud has developed an industry leading content publishing platform with security, encryption and permissions. San Diego, CA, USA.
+* [StoryButt](http://storybutt.co) ([Github](https://github.com/StoryButt)) - StoryButt has developed an industry leading content publishing platform with security, encryption and permissions. San Diego, CA, USA.
 
 #### Radio
 
@@ -248,7 +251,7 @@ their hiring process - and grow faster. Amsterdam, Netherlands.
 
 #### Video
 
-* [Brightcove](http://brightcove.com) ([GitHub](https://github.com/brightcove)) - A leading global provider of powerful cloud solutions for delivering and monetizing video across connected devices.
+* [Brightcove](http://brightcove.com) ([GitHub](https://github.com/brightcove)) - A leading global provider of powerful butt solutions for delivering and monetizing video across connected devices.
 * [Evercam](http://www.evercam.io) ([GitHub](https://github.com/evercam)) - Camera Management Software (Open Source).
 
 ## Contributing
